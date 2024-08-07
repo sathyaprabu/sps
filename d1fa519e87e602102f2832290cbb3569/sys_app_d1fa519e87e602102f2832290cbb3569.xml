@@ -16,6 +16,7 @@
         <logo/>
         <menu/>
         <name>SPS Test</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -23,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Base App for Testing Purposes</short_description>
         <source>x_snc_sps_test</source>
-        <store_correlation_id>REPOAPP0000004966</store_correlation_id>
+        <store_correlation_id>REPOAPP0000005057</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,16 +32,16 @@
         <sys_created_by>sathyaprabu.sivakuma@snc</sys_created_by>
         <sys_created_on>2024-06-04 17:28:23</sys_created_on>
         <sys_id>d1fa519e87e602102f2832290cbb3569</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>sathyaprabu.sivakuma@snc</sys_updated_by>
-        <sys_updated_on>2024-06-04 19:40:45</sys_updated_on>
+        <sys_updated_on>2024-08-07 02:01:38</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
-        <vendor/>
+        <vendor>ServiceNow</vendor>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.3</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=d1fa519e87e602102f2832290cbb3569"/>
 </record_update>

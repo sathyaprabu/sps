@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="fe3b1d9e87e602102f2832290cbb35d5" label="SPS Table" max_length="40" name="x_snc_sps_test_sps_table" type="collection">
-        <element label="Emp Number" max_length="40" name="emp_number" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Emp Name" max_length="40" name="emp_name" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Emp Number" max_length="40" name="emp_number" type="integer"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
